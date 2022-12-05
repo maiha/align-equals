@@ -1,0 +1,13 @@
+name: align-equals
+version: 1.0.0
+
+authors:
+  - maiha <maiha@wota.jp>
+
+targets:
+  align-equals:
+    main: src/main.cr
+
+crystal: 1.6.2
+
+license: MIT

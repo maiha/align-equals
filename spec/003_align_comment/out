@@ -1,0 +1,4 @@
+a      = 1   # int
+foo    = xyz # symbol
+---
+barbaz = ""  # string
